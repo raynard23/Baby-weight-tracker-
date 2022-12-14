@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "BabyList" ALTER COLUMN "date" SET DATA TYPE TIMESTAMP(3);
